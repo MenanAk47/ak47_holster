@@ -5,7 +5,6 @@ Config.PatreonEmail = 'Your Patron Email'
 Config.HolsterButton = 25
 
 Config.WeaponAsItem   = false
-Config.ESXFinal = false -- Make it true if you are using ESX 1.2
 
 Config.Small = {
 	bone = 24816,
