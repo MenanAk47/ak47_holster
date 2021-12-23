@@ -6,6 +6,12 @@ Config.HolsterButton = 25
 
 Config.WeaponAsItem   = false
 
+Config.BagIds = {
+	[1] = true,
+	[2] = true,
+	[5] = true,
+}
+
 Config.Small = {
 	bone = 24816,
 	x = -0.1,
